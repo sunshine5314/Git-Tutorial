@@ -7,3 +7,4 @@ Please fork this repository and put the link of your GitHub repository directly 
 * [xlc-soda](https://github.com/xlc-soda/neu_tech)
 * [wuhao050698](https://github.com/wuhao050698/gittest)
 * [nekokira](https://github.com/Nekokir/Git)
+* [BlockChanZJ](https://github.com/NEU20161241/Git-Tutorial)
